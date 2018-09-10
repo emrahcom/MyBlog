@@ -5,6 +5,7 @@ Cahil cesareti diye buna deniyor herhalde. Başlamış kodlamaya... Yazdıkça
 yazmış, yazdıkça yazmış. O sırada bir kahkaha sesi duyulmuş. Linus umursamamış,
 yazmaya devam etmiş. Üç bin, beş bin satır derken kodlar çoğalmaya, çalışan bir
 şeyler ortaya çıkmaya başlamış. Bu sefer '*mikro kodla*' diye bir ses duyulmuş.
+
 [Devamını Oku](/2009/04/gercek-zamanli-bir-linux-masali.md)
 
 ---
