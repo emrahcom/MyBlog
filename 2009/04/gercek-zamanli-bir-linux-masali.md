@@ -19,7 +19,7 @@ Hoca](https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum)'yı görmüş.
 
 <big><pre>
 **Tanenbaum Hoca**
-     *Evladım, kaç yılındayız biz?*
+:    *Evladım, kaç yılındayız biz?*
 **Linus**
      *1992*
 **Tanenbaum Hoca**
