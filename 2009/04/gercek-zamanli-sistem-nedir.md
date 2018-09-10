@@ -26,7 +26,7 @@ Gerçek zamanlı sistemler, **latency** terimi ile ifade edilen bu sapmaların,
 belli bir değerden küçük olacağını bize garanti ederler.
 
 
-###Soft Real-time ve Hard Real-time
+### Soft Real-time ve Hard Real-time
 Aşçı denilen organizmaların, yemeklerin pişirilme süreleri konusunda ne kadar
 hassas sistemler olduğuna değinmiştik. Peki ama aşçılar hiç mi hata yapmaz? Bir
 aşçı, arada bir hata yapıp yemeği hafif yaksa ne olur?
@@ -54,7 +54,7 @@ bu sistemde çalışan işler, sapma aralığının dışına çıkıldığında
 sonuçlar doğuruyorsa, sistemimiz **hard real-time**'dır.
 
 
-###Jitter
+### Jitter
 Aşçıların bir tipi vardır ki buna da jitter denir. Mutfak havalandırmasının iyi
 olmamasından dolayı sürekli buhar altında kalan ve yamaklığı sırasında her gün
 zorla üç çuval patates soydurulan aşçılar arasında sıklıkla bu tipe rastlanır.
@@ -73,7 +73,7 @@ sapmaların hep aynı yönde ve benzer oranlarda olması istenir; tabii garanti
 edilen aralığı da aşmamak koşulu ile...
 
 
-###Gerçek zamanlı sistem hızlı mı olmalı?
+### Gerçek zamanlı sistem hızlı mı olmalı?
 Aşçımız, evde çocuklarına yemek pişiren bir anne ise hızlı olmasına gerek
 yoktur, üç tencereyi kontrol altında tutabilmesi yeterlidir. Ama onlarca
 yemeğin aynı anda hazırlanması gereken bir lokanta söz konusu ise bunca yemeği
@@ -90,7 +90,7 @@ zamanlı olma özelliklerini koruyabilirler. Dolayısı ile gerçek zamanlı bir
 sistem kurgulanırken iş yükü, baştan kesin bir doğrulukla hesaplanmalıdır.
 
 
-###Gerçek zamanlı sistemde tampon (buffer) kullanımı
+### Gerçek zamanlı sistemde tampon (buffer) kullanımı
 Börekçiler tampon ile çalışır. Bi sabah börekçiye gidip '*peynirli var mı*'
 diye sorulduğunda '*10 dakika sonra hazır*' cevabı alınabilirken, ertesi gün
 tezgahın üzerinde tonlarca peynirli börek bulunabilir. Dolayısı ile '*bugün
@@ -99,7 +99,7 @@ zaman önünüze geleceğinden asla emin olamayız. Bu nedenle hard real-time
 sistemlerde tampon kullanılmaz.
 
 
-###Pre-emptive nedir?
+### Pre-emptive nedir?
 Aile terbiyesi almamış aşçıya, pre-emptive denir. Bu aşçı tipi, yemeklerine
 özen göstermez, kimini yakar, kimini çiğ bırakır. Yemek diye çiğ tavuk sunduğu
 bile görülmüştür ama ne zaman ki kapıdan yağlı bir müşteri girer, hemen Oktay
