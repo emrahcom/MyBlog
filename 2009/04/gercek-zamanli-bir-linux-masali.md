@@ -17,7 +17,7 @@ Linus sağa sola bakınmış kimse yok. Başını kaldırıp kürsüye bakınca 
 oturmakta olan [Tanenbaum
 Hoca](https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum)'yı görmüş.
 
-<code>
+<big><pre>
 **Tanenbaum Hoca** *Evladım, kaç yılındayız biz?*   
 **Linus** *1992*   
 **Tanenbaum Hoca** *1992 yılında
@@ -36,7 +36,7 @@ ortada birşey yok. [Emacs](http://www.gnu.org/software/emacs/) bile bitti,
 çekirdek bitmedi.*   
 **Tanenbaum Hoca** *Bak hala konuşuyor. Dua et benim öğrencim değilsin, yoksa
 sınıfta kalmıştın.*   
-</code>
+</pre></big>
 
 Linus, '*bu akademisyen tayfası adam olmaz*' diye içinden geçirip, bildiği gibi
 yoluna devam etmiş. Sonunda ortaya oldukça yetenekli ve hızlı bir çekirdek
