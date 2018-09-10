@@ -17,6 +17,9 @@ Linus sağa sola bakınmış kimse yok. Başını kaldırıp kürsüye bakınca 
 oturmakta olan [Tanenbaum
 Hoca](https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum)'yı görmüş.
 
+<span style="display:block" class="note">It **works!**</span>
+
+
 > @Tanenbaum_Hoca *Evladım, kaç yılındayız biz?*
 > @Linus *1992*
 > [ Tanenbaum Hoca ] 1992 yılında monolitik çekirdek yazılır mı? Ne bulduysan
