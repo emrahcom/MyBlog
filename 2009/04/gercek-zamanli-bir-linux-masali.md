@@ -17,16 +17,16 @@ Linus sağa sola bakınmış kimse yok. Başını kaldırıp kürsüye bakınca 
 oturmakta olan [Tanenbaum
 Hoca](https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum)'yı görmüş.
 
-<dl>
-    <dt>Tanenbaum_Hoca</dt>
-    <dd><em>Evladım, kaç yılındayız biz?</em></dd>
-    <dt>Linus</dt>
-    <dd><em>1992</em></dd>
-    <dt>Tanenbaum Hoca</dt>
-    <dd><em>1992 yılında [monolitik
-çekirdek](https://en.wikipedia.org/wiki/Monolithic_kernel) yazılır mı? Ne
-bulduysan koymuşsun çekirdeğin içine... Kim yapacak bu kodun bakımını? Ya bi
-hata yaparsan, bütün sistem çöker valla</em></dd>
-    <dt>Linus</dt>
-    <dd><em>Hocam iyi ama...</em></dt>
-</dl>
+<div>
+<b>@Tanenbaum_Hoca</b>
+<em>Evladım, kaç yılındayız biz?</em><br>
+<b>Linus</b>
+<em>1992</em><br>
+<b>Tanenbaum Hoca</b>
+<em>1992 yılında <a href="https://en.wikipedia.org/wiki/Monolithic_kernel">
+monolitik çekirdek</a> yazılır mı? Ne bulduysan koymuşsun çekirdeğin içine...
+Kim yapacak bu kodun bakımını? Ya bi hata yaparsan, bütün sistem çöker valla
+</em><br>
+<b>Linus</b>
+<em>Hocam iyi ama...</em><br>
+</div>
