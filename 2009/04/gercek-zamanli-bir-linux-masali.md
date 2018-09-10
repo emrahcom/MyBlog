@@ -18,7 +18,7 @@ oturmakta olan [Tanenbaum
 Hoca](https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum)'yı görmüş.
 
 > **Tanenbaum Hoca**   
->    *Evladım, kaç yılındayız biz?*
+>        *Evladım, kaç yılındayız biz?*
 > **Linus**   
 >> *1992*   
 > **Tanenbaum Hoca**   
