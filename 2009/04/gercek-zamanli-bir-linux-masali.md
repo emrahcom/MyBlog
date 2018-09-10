@@ -67,7 +67,7 @@ gitmişler.
 > **Mühim adamlar**   
 > *Senin çekirdeği, bizim işlerde kullanmak istiyoruz. Sence olur mu?*   
 >
-> **Linus**
+> **Linus**   
 > *Ben çekirdeğime güveniyorum. Her işin üstesinden gelebilir*   
 >
 > **Mühim adamlar**   
@@ -89,7 +89,7 @@ birbirine bakınmış. Linus çekmiş çekirdeği kenara.
 > **Çekirdek**   
 > *İşim vardı, topa bakamadım*   
 >
-> **Linus**...
+> **Linus**   
 > *Nasıl bakamadın?*   
 >
 > **Çekirdek**   
@@ -105,7 +105,9 @@ birbirine bakınmış. Linus çekmiş çekirdeği kenara.
 > nasıl keseyim işi*   
 >
 > **Linus**   
-> *Keseceksin, [pre-emptive]( olacaksın*   
+> *Keseceksin,
+> [pre-emptive](/2009/04/gercek-zamanli-sistem-nedir.md#pre-emptive-nedir)
+> olacaksın*   
 >
 > **Çekirdek**   
 > *Sen bilirsin abi*
