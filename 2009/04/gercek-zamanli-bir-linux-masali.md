@@ -19,9 +19,9 @@ Hoca](https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum)'yı görmüş.
 
 <big><pre>
 **Tanenbaum Hoca**
-    *Evladım, kaç yılındayız biz?*
+    + *Evladım, kaç yılındayız biz?*
 **Linus**
-   *1992*
+    + *1992*
 **Tanenbaum Hoca**
    *1992 yılında [Monolithic_kernel](https://en.wikipedia.org/wiki/Monolithic_kernel) yazılır mı?
    Ne bulduysan koymuşsun çekirdeğin içine... Kim yapacak bu kodun bakımını?
