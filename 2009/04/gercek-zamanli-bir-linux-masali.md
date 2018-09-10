@@ -17,22 +17,16 @@ Linus sağa sola bakınmış kimse yok. Başını kaldırıp kürsüye bakınca 
 oturmakta olan [Tanenbaum
 Hoca](https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum)'yı görmüş.
 
-<span style="color:blue">It **works!** asda
-asdasd
-asdasd</span>
-
-
-> @Tanenbaum_Hoca *Evladım, kaç yılındayız biz?*
-> @Linus *1992*
-> [ Tanenbaum Hoca ] 1992 yılında monolitik çekirdek yazılır mı? Ne bulduysan
-> koymuşsun çekirdeğin içine... Kim yapacak bu kodun bakımını? Ya bi hata
-> yaparsan, bütün sistem çöker valla
-> [ Linus ] Hocam iyi ama...
-> [ Tanenbaum Hoca ] Mikro çekirdek yazacaksın. Çekirdek dediğin ayak işlerine
-> bakmaz. Dosya sistemini, hafızayı filan bırak da hizmetçiler halletsin. Yoksa
-> senin çekirdek, başkalarının hizmetçisi olur.
-> [ Linus ] Hocam, güzel diyorsun da bak Richard Stallman Abi mikro çekirdek
-> yazacam diye yıllarını harcadı, saç sakal birbirine karıştı ama hala ortada
-> birşey yok. Emacs bile bitti, çekirdek bitmedi.
-> [ Tanenbaum Hoca ] Bak hala konuşuyor. Dua et benim öğrencim değilsin, yoksa
-sınıfta kalmıştın.
+<dl>
+    <dt>Tanenbaum_Hoca</dt>
+    <dd><em>Evladım, kaç yılındayız biz?</em></dd>
+    <dt>Linus</dt>
+    <dd><em>1992</em></dd>
+    <dt>Tanenbaum Hoca</dt>
+    <dd><em>1992 yılında [monolitik
+çekirdek](https://en.wikipedia.org/wiki/Monolithic_kernel) yazılır mı? Ne
+bulduysan koymuşsun çekirdeğin içine... Kim yapacak bu kodun bakımını? Ya bi
+hata yaparsan, bütün sistem çöker valla</em></dd>
+    <dt>Linus</dt>
+    <dd><em>Hocam iyi ama...</em></dt>
+</dl>
