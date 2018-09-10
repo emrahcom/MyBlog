@@ -49,3 +49,64 @@ yoluna devam etmiş. Sonunda ortaya oldukça yetenekli ve hızlı bir çekirdek
 çıkmış. GNU araçları ile de bu çekirdeği birleştirince GNU/Linux işletim
 sistemi doğmuş. Bu işletim sistemi çok tutmuş, her yerde kullanılmaya
 başlanmış.
+
+
+### Mühim Adamlar
+GNU/Linux'un başarısı, [hard
+real-time](/2009/04/gercek-zamanli-sistem-nedir.md#soft-real-time-ve-hard-real-time)
+sistemler tasarlayan mühim adamların kulağına gitmiş. '*Şu GNU/Linux'u
+bir de biz görelim, belki işimize yarar*' demişler. Toplanıp Linus'u ziyarete
+gitmişler.
+
+> **Mühim adamlar**   
+> *Slm*   
+>
+> **Linus**   
+> *Slm*   
+>
+> **Mühim adamlar**   
+> *Senin çekirdeği, bizim işlerde kullanmak istiyoruz. Sence olur mu?*   
+>
+> **Linus**
+> *Ben çekirdeğime güveniyorum. Her işin üstesinden gelebilir*   
+>
+> **Mühim adamlar**   
+> *Hmm, tamam öyleyse bir deneme yapalım. Şimdi ben şu topu havaya atacam,
+> senin çekirdek yere düşmeden vuracak, tamam mi?*
+
+Mühim adam topu havaya atmış, '*pat*'... Çekirdek anında havada vurmuş topu.
+
+> **Mühim adamlar**   
+> *Hmm, güzel... Bir deneme daha yapalım.*
+
+Bir top daha atmış, '*pat*' vurmuş. İki, üç derken sıra onüçüncü topa gelmiş.
+Mühim adam topu havaya atmış, çekirdekte hiç bi hareket yok. Herkes şaşkın
+birbirine bakınmış. Linus çekmiş çekirdeği kenara.
+
+> **Linus**   
+> *Hayrola?*   
+>
+> **Çekirdek**   
+> *İşim vardı, topa bakamadım*   
+>
+> **Linus**...
+> *Nasıl bakamadın?*   
+>
+> **Çekirdek**   
+> *Abi, önemli işim vardı. Kesip topa bakamadım*   
+>
+> **Linus**   
+> *Dalga mı geçiyorsun sen benle? Bunlar mühim adamlar. Ne işin varsa kesip
+> bunlarınkine bakacaksın*   
+>
+> **Çekirdek**   
+> *[Kritik
+> bölgedeyken](https://en.wikipedia.org/wiki/Critical_section#Kernel_Level_Critical_Sections)
+> nasıl keseyim işi*   
+>
+> **Linus**   
+> *Keseceksin, [pre-emptive]( olacaksın*   
+>
+> **Çekirdek**   
+> *Sen bilirsin abi*
+
