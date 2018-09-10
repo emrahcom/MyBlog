@@ -17,7 +17,7 @@ Linus sağa sola bakınmış kimse yok. Başını kaldırıp kürsüye bakınca 
 oturmakta olan [Tanenbaum
 Hoca](https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum)'yı görmüş.
 
-<span style="display:block;color:blue">It **works!** asda
+<span style="color:blue">It **works!** asda
 asdasd
 asdasd</span>
 
