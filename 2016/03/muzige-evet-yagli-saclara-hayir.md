@@ -57,6 +57,13 @@ mkfifo /tmp/mplayer.pipe
 mplayer -slave -input file=/tmp/mplayer.pipe http://46.20.7.104/
 ```
 
+Sesi açıp kapatmak için de **input** noktasına (yani named pipe'a) şu komutu
+göndermem yeterliydi:
+
+```bash
+echo mute > /tmp/mplayer.pipe
+```
+
 Bu komutu, bir kısayola bağlayınca düşündüğüm oldu ama hala yolunda gitmeyen
 bir şeyler vardı.
 
