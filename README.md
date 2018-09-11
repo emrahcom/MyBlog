@@ -1,3 +1,19 @@
+### Müziğe Evet, Yağlı Saçlara Hayır
+Her şey, yeni bir eve taşınmamla başladı. Önceden iş yerine varmam 5 dakika
+sürüyordu. Bu süre, bir anda 45 dakikaya çıkınca aydınlanma yaşadım ve bazı
+insanların neden müzik olmadan yapamadığını anladım: bu yol (ve bazen de
+hayat), başka türlü çekilecek gibi değildi.
+
+Aydınlanma sürecim, daha önce anlam veremedim bir çok şeyi de anlamamı sağladı.
+Örneğin "*yolu bilmek ile yolda gitmek*" aynı şey değildi. Bu koduğumun yolu,
+git git bi türlü bitmiyordu ama yolu bilmek için Google Map'e bakmak
+yeterliydi. Ayrıca o bilgenin, Ferrari'sini neden sattığını da artık çok iyi
+anlamıştım.
+
+[Devamını Oku](/2016/03/muzige-evet-yagli-saclara-hayir.md)
+
+---
+
 ### Gerçek zamanlı bir Linux masalı
 Bir gün [Linus](https://en.wikipedia.org/wiki/Linus_Torvalds) adında bir genç,
 yaşına başına bakmadan bir işletim sistemi çekirdeği (kernel) yazmaya başlamış.

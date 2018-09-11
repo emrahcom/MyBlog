@@ -237,4 +237,4 @@ mute komutu tetikleniyor.
 
 ### Mutlu Son
 Sonunda istediğim olmuştu. Artık rahat bir şekilde müzik dinliyebiliyordum ama
-kafama takılan bir şey vardı: o mucize şampuandan ben de almalı mıydım? 
+kafama takılan bir şey vardı: o mucize şampuandan ben de almalı mıydım?
