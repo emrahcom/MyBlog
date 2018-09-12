@@ -1,4 +1,4 @@
-10 Dakika 7 Saniyede Kendi Github Sunucumuzu Kurmak
+10 dakika 7 saniyede kendi Github sunucumuzu kurmak
 ===================================================
 
 "*21 Günde Python Öğrenin*" veya "*24 Saatte Java*" gibi kitapları
@@ -7,8 +7,9 @@ yazan da aslında doğru değil ama bir farkla: zaman kısmı doğru, GitHub kı
 yanlış... Aslında GitHub değil, web arayüzü GitHub'a çok benzeyen, kendi Git
 sunucumuzu kuruyoruz.
 
-Saat tutup denedim ve gerçekten de **10 dakika 7** saniye sürdü. Ve daha da
-güzeli, bütün yapacağımız, sadece 2 komut yazıp basit bir web formunu doldurmak...
+Saat tutup denedim ve gerçekten de **10 dakika 7 saniye** sürdü. Ve daha da
+güzeli, bütün yapacağımız, sadece 2 komut yazıp basit bir web formunu
+doldurmak...
 
 
 ### Arkada ne dolaplar dönüyor
@@ -31,10 +32,10 @@ gerçekleşecek:
 
 * vs vs vs
 
-Bütün bunlarla uğraşmak istemiyorsanız doğru yere geldiniz ama "*Yok, ben illa
-arıza çıkaracağım. Olayın detaylarını da öğrenmek istiyorum*" derseniz, kaynak
-kodlar açık... Dilediğiniz gibi inceleyebilirsiniz. Takıldığınız yer olursa
-bana email atın.
+Bütün bunlarla uğraşmak istemiyorsanız, doğru yere geldiniz ama "*Yok, ben illa
+arıza çıkaracağım. Olayın detaylarını da öğrenmek istiyorum*" derseniz,
+[kaynak kodlar](https://github.com/emrahcom/emrah-stretch) açık...
+Dilediğiniz gibi inceleyebilirsiniz. Takıldığınız yer olursa bana email atın.
 
 
 ### Ama bir şartım var
