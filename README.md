@@ -1,3 +1,16 @@
+### 10 dakika 7 saniyede kendi Github sunucumuzu kurmak
+"*21 Günde Python Öğrenin*" veya "*24 Saatte Java*" gibi kitapları
+görmüşsünüzdür ve sonuç, hiç de kitabın adında yazdığı gibi olmaz. Bu başlıkta
+yazan da aslında doğru değil ama bir farkla: zaman kısmı doğru, GitHub kısmı
+yanlış... Aslında GitHub değil, web arayüzü GitHub'a çok benzeyen, kendi Git
+sunucumuzu kuruyoruz.
+
+Saat tutup denedim ve gerçekten de **10 dakika 7 saniye** sürdü. Ve daha da
+güzeli, bütün yapacağımız, sadece 2 komut yazıp basit bir web formunu
+doldurmak...
+
+[Devamını Oku](/2018/09/kendi-github-sunucumuzu-kurmak.md)
+
 ### Müziğe Evet, Yağlı Saçlara Hayır
 Her şey, yeni bir eve taşınmamla başladı. Önceden iş yerine varmam 5 dakika
 sürüyordu. Bu süre, bir anda 45 dakikaya çıkınca aydınlanma yaşadım ve bazı
