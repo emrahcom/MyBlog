@@ -69,3 +69,20 @@ değiştirmeniz gerekiyor: **Domain** ve **Application URL**
 
 Eğer bu sunucu için bir alan adı kullanmayacaksanız, "*your.domain.name*" yazan
 yerlere, sunucunun IP adresini yazabilirsiniz. Bu kadar...
+
+
+### Güncelleme
+_2019-08-26_
+
+[Debian](https://www.debian.org/) yeni sürümünü yayınladı.
+[Debian Buster](https://www.debian.org/) makineye kurulum yapacaksanız artık şu
+komutları kullanınız:
+
+```bash
+wget https://raw.githubusercontent.com/emrahcom/emrah-buster-base/master/installer/eb
+wget https://raw.githubusercontent.com/emrahcom/emrah-buster-templates/master/installer/eb-gitea.conf
+bash eb eb-gitea
+```
+
+Bu yeni sürümde [Gogs](https://gogs.io/) değil, [Gitea](https://gitea.io/en-us/)
+kullandım. [Gogs](https://gogs.io/)'dan klonlanan yeni bir proje...
