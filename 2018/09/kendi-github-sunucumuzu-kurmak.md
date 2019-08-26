@@ -72,9 +72,7 @@ yerlere, sunucunun IP adresini yazabilirsiniz. Bu kadar...
 
 
 ### Güncelleme
-_2019-08-26_
-
-[Debian](https://www.debian.org/) yeni sürümünü yayınladı.
+_2019-08-26_ - [Debian](https://www.debian.org/) yeni sürümünü yayınladı.
 [Debian Buster](https://www.debian.org/) makineye kurulum yapacaksanız artık şu
 komutları kullanınız:
 
