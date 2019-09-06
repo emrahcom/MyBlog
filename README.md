@@ -11,6 +11,8 @@ doldurmak...
 
 [Devamını Oku](/2018/09/kendi-github-sunucumuzu-kurmak.md)
 
+---
+
 ### Müziğe Evet, Yağlı Saçlara Hayır
 Her şey, yeni bir eve taşınmamla başladı. Önceden iş yerine varmam 5 dakika
 sürüyordu. Bu süre, bir anda 45 dakikaya çıkınca aydınlanma yaşadım ve bazı

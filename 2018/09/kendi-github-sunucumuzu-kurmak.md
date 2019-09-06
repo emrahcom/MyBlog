@@ -70,9 +70,10 @@ değiştirmeniz gerekiyor: **Domain** ve **Application URL**
 Eğer bu sunucu için bir alan adı kullanmayacaksanız, "*your.domain.name*" yazan
 yerlere, sunucunun IP adresini yazabilirsiniz. Bu kadar...
 
+---
 
-### Güncelleme
-_2019-08-26_ - [Debian](https://www.debian.org/) yeni sürümünü yayınladı.
+##### Güncelleme
+_2019-08-26_ - [Debian](https://www.debian.org/) yeni sürümü yayınladı.
 [Debian Buster](https://www.debian.org/) makineye kurulum yapacaksanız artık şu
 komutları kullanınız:
 

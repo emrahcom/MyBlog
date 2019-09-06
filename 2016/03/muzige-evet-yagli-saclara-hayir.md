@@ -245,3 +245,40 @@ mute komutu tetikleniyor.
 ### Mutlu Son
 Sonunda istediğim olmuştu. Artık rahat bir şekilde müzik dinliyebiliyordum ama
 kafama takılan bir şey vardı: o mucize şampuandan ben de almalı mıydım?
+
+---
+
+##### Güncelleme
+_2019-09-06_ - Bu komutun bir benzerini [Radyo Eksen](https://radioeksen.com/)
+hazırladım. Yalnız artık `mplayer` değil `mpv` kullanıyorum. Bu sebeple `pipe`
+kullanımı biraz daha farklı. Komut şu şekilde:
+
+```bash
+ADDR=http://eksenwmp.radyotvonline.com/
+WAIT=1
+
+echo $WAIT > /tmp/mpvwait
+
+MUTE=false
+mpv --quiet --input-ipc-server=/tmp/mpv.socat $ADDR | \
+while read line
+do
+    echo $line;
+    [ "$(echo $line | grep -v 'icy-title')" ] && continue
+    title=$(echo $line | awk '{print $2}')
+    [ -z "$title" ] && continue
+
+    if [ "$title" = "REKLAM" ]
+    then
+        echo MUTE
+        $MUTE || (sleep $(cat /tmp/mpvwait); \
+                  echo 'cycle mute' | socat - /tmp/mpv.socat) &
+        MUTE=true
+    else
+        echo UNMUTE
+        $MUTE && (sleep $(cat /tmp/mpvwait); \
+                  echo 'cycle mute' | socat - /tmp/mpv.socat) &
+        MUTE=false
+    fi
+done
+```
