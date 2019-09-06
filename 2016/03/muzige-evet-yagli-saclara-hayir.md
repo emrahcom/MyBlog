@@ -250,12 +250,12 @@ kafama takılan bir şey vardı: o mucize şampuandan ben de almalı mıydım?
 
 ##### Güncelleme
 _2019-09-06_ - Bu komutun bir benzerini [Radyo Eksen](https://radioeksen.com/)
-hazırladım. Yalnız artık `mplayer` değil `mpv` kullanıyorum. Bu sebeple `pipe`
-kullanımı biraz daha farklı. Komut şu şekilde:
+için hazırladım. Yalnız artık `mplayer` değil `mpv` kullanıyorum. Bu sebeple
+`pipe` kullanımı biraz daha farklı. Komut şu şekilde:
 
 ```bash
 ADDR=http://eksenwmp.radyotvonline.com/
-WAIT=1
+WAIT=5
 
 echo $WAIT > /tmp/mpvwait
 
