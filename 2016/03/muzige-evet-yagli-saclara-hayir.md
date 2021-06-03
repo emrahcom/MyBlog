@@ -282,3 +282,12 @@ do
     fi
 done
 ```
+
+---
+
+##### Güncelleme
+_2021-06-01_ - Sonunda eve `fiber internet` bağlatabildik.
+
+Sokağın başındaki laz bakkal, pandemi sebebiyle artık evlere `drone` ile servis
+yapıyor. Geçen gün bana, moleküler transportasyon teknolojisindeki son
+gelişmelerden bahsetti ama bir şey anlamadım.
